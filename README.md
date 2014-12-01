@@ -1,4 +1,6 @@
 learning
 ========
 
-where I'll be hosting things as I learn
+where i'll be hosting things as i learn
+
+i'm *very* **new** to this
